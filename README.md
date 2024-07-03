@@ -6,3 +6,4 @@ News Monkey is a single-page application that allows users to stay up-to-date on
 
 **Video Demonstration**
 
+[![Watch the video](https://raw.githubusercontent.com/HrishikeshMajumdar-2004/NewsDome-Website/main/Screenshot 2024-07-03 100432.png)](https://raw.githubusercontent.com/HrishikeshMajumdar-2004/NewsDome-Website/main/NewsDome Video Demo.mp4)
